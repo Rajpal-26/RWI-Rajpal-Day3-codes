@@ -1,1 +1,1 @@
-# RWI-Rajpal-Day3-codes
+# RWI-Rajpal-SDE-Training
